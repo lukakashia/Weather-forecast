@@ -1,0 +1,15 @@
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\bin\Debug\net6.0\Weather Forecast.exe
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\bin\Debug\net6.0\Weather Forecast.deps.json
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\bin\Debug\net6.0\Weather Forecast.runtimeconfig.json
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\bin\Debug\net6.0\Weather Forecast.dll
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\bin\Debug\net6.0\Weather Forecast.pdb
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\Weather Forecast.csproj.AssemblyReference.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\Weather Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\Weather Forecast.AssemblyInfo.cs
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\Weather Forecast.dll
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\refint\Weather Forecast.dll
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\Weather Forecast.pdb
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\Weather Forecast.genruntimeconfig.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Weather Forecast\Weather Forecast\obj\Debug\net6.0\ref\Weather Forecast.dll
